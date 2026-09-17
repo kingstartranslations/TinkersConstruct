@@ -1922,7 +1922,7 @@
   "material.tconstruct.iron.encyclopedia": "Causa que el minar bloques y golpear objetivos atraiga ítems a tu alrededor.",
   "material.tconstruct.iron.encyclopedia.ranged": "Causa que el disparar flechas atraiga ítems hacia el portador.",
   "material.tconstruct.iron.encyclopedia.armor": "Reduce el daño a los proyectiles en un 8% cada nivel, y otorga un 5% de resistencia al empuje multiplicado por el nivel.",
-  "material.tconstruct.iron.skull": "Husk"
+  "material.tconstruct.iron.skull": "Husk",
   "material.tconstruct.iron.flavor.skull": "¡Sobredósis de Plasmio!", 
   "material.tconstruct.iron.encyclopedia.skull": "Al recibir daño, cura hasta el 50% del daño recibido luego de la armadura.", 
   
