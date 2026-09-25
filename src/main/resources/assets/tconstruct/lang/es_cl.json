@@ -790,11 +790,11 @@
 
   "_comment": "Minerales de compatibilidad",
 
-  "block.tconstruct.molten_tin_fluid": "Hojalata fundida",
-  "fluid.tconstruct.molten_tin": "Hojalata fundida",
-  "fluid.tconstruct.flowing_molten_tin": "Hojalata fundida fluyendo",
-  "item.tconstruct.molten_tin_bucket": "Balde con Hojalata fundida",
-  "fluid.tconstruct.molten_tin.fluid_effect": "Dicen que las zanahorias hacen bien a la vista, pero la Hojalata fundida es mejor.",
+  "block.tconstruct.molten_tin_fluid": "Estaño fundido",
+  "fluid.tconstruct.molten_tin": "Estaño fundido",
+  "fluid.tconstruct.flowing_molten_tin": "Estaño fundido fluyendo",
+  "item.tconstruct.molten_tin_bucket": "Balde con Estaño fundido",
+  "fluid.tconstruct.molten_tin.fluid_effect": "Dicen que las zanahorias hacen bien a la vista, pero el Estaño fundido es mejor.",
 
   "block.tconstruct.molten_aluminum_fluid": "Aluminio fundido",
   "fluid.tconstruct.molten_aluminum": "Aluminio fundido",
@@ -895,11 +895,11 @@
   "item.tconstruct.molten_constantan_bucket": "Balde con Constantán fundido",
   "fluid.tconstruct.molten_constantan.fluid_effect": "El Constantán fundido quizás sea útil contra humanos, pero no tanto contra monstruos.",
 
-  "block.tconstruct.molten_pewter_fluid": "Estaño fundido",
-  "fluid.tconstruct.molten_pewter": "Estaño fundido",
-  "fluid.tconstruct.flowing_molten_pewter": "Estaño fundido fluyendo",
-  "item.tconstruct.molten_pewter_bucket": "Balde con Estaño fundido",
-  "fluid.tconstruct.molten_pewter.fluid_effect": "El Estaño fundido es menos riesgoso de usar para mejorar tu fuerza que el veneno, pero no por mucho.",
+  "block.tconstruct.molten_pewter_fluid": "Peltre fundido",
+  "fluid.tconstruct.molten_pewter": "Peltre fundido",
+  "fluid.tconstruct.flowing_molten_pewter": "Peltre fundido fluyendo",
+  "item.tconstruct.molten_pewter_bucket": "Balde con Peltre fundido",
+  "fluid.tconstruct.molten_pewter.fluid_effect": "El Peltre fundido es menos riesgoso de usar para mejorar tu fuerza que el veneno, pero no por mucho.",
 
   "block.tconstruct.molten_steel_fluid": "Acero fundido",
   "fluid.tconstruct.molten_steel": "Acero fundido",
@@ -1986,7 +1986,7 @@
   "material.tconstruct.skyslime_vine.encyclopedia.melee_harvest": "Elimina la penalización de velocidad minera cuando no estés en el piso.",
   "material.tconstruct.skyslime_vine.encyclopedia.ranged": "Otorga +0.1 de velocidad cuando no estés en el piso o en una escalera.",
   "material.tconstruct.skyslime_vine.encyclopedia.armor": "Reduce la gravedad en 15% por pieza",
-  "material.tconstruct.skyslime_vine.encyclopedia.laces": "Otorga +0.5 bloques dealtura al saltar en su primer nivel, y +1 al segundo. Aumenta la distancia de caída segura en 1 cada nivel.",
+  "material.tconstruct.skyslime_vine.encyclopedia.laces": "Otorga +0.5 bloques de altura al saltar en su primer nivel, y +1 al segundo. Aumenta la distancia de caída segura en 1 cada nivel.",
   "material.tconstruct.skyslimeskin": "Piel  Slime",
   "material.tconstruct.skyslimeskin.flavor": "Flota como un slime, picado por una abeja.",
   "material.tconstruct.skyslimeskin.encyclopedia.armor": "Reduce el daño recibido de atacantes en el aire en un 10%.", 
@@ -2164,7 +2164,7 @@
   "material.tconstruct.steel.flavor": "Básicamente el 90% de la ciencia material",
   "material.tconstruct.steel.encyclopedia": "Otorga +10% de durabilidad y +5% de daño cuerpo a cuerpo cada nivel",
   "material.tconstruct.steel.encyclopedia.ranged": "Otorga +10% de durabilidad y +0.25 de poder del proyectil cada nivel",
-  "material.tconstruct.steel.encyclopedia.armor": "Otorga +10% de durabilidad y +1 dureza del armadura cada nivel",
+  "material.tconstruct.steel.encyclopedia.armor": "Otorga +10% de durabilidad y +1 dureza de la armadura cada nivel",
 
   "material.tconstruct.magnetite": "Magnetita",
   "material.tconstruct.magnetite.flavor": "Magnetismo natural",
@@ -2411,7 +2411,7 @@
   "material.tconstruct.invar.encyclopedia.ranged": "Otorga +0.75 de poder, -10% de velocidad de movimiento, y +5% de gravedad cada nivel.",
   "material.tconstruct.invar.encyclopedia.armor": "Otorga 5% de protección, -10% de velocidad de movimiento, y +5% de gravedad cada nivel.",
 
-  "material.tconstruct.pewter": "Estaño",
+  "material.tconstruct.pewter": "Peltre",
   "material.tconstruct.pewter.flavor": "El más fuerte de los materiales.",
   "material.tconstruct.pewter.encyclopedia": "Otorga +0.25 de daño cada nivel por vida perdida abajo de 11.",
   "material.tconstruct.pewter.encyclopedia.ranged": "Otorga +0.1 de poder cada nivel por vida perdida abajo de 11.",
